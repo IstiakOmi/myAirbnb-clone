@@ -1,0 +1,11 @@
+.home {
+}
+
+.home__section {
+  display: flex;
+  padding: 30px;
+}
+
+.pad {
+  margin-top: 10px;
+}
